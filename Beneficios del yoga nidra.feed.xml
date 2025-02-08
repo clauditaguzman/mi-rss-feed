@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias sobre Yoga Nidra</title>
+    <link>https://www.yogaybienestar.com</link>
+    <description>Últimas noticias y artículos sobre Yoga Nidra</description>
+    <language>es</language>
+
+    <item>
+      <title>Beneficios del Yoga Nidra para el descanso profundo</title>
+      <link>https://www.yogaybienestar.com/yoga-nidra-beneficios</link>
+      <description>Descubre cómo el Yoga Nidra puede ayudarte a reducir el estrés y mejorar tu calidad de sueño en pocas semanas.</description>
+      <pubDate>Tue, 06 Feb 2025 10:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Guía paso a paso para practicar Yoga Nidra antes de ir a dormir</title>
+      <link>https://www.yogaybienestar.com/guia-yoga-nidra</link>
+      <description>Aprende cómo realizar una sesión efectiva de Yoga Nidra en cualquier lugar y cómo rotar la conciencia desde la primera clase.</description>
+      <pubDate>Tue, 06 Feb 2025 12:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
